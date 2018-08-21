@@ -1,0 +1,67 @@
+.html {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.App {
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  margin-top: 10%;
+  height: 50%;
+  width: 50%;
+  text-align: center;
+}
+
+.FoodTable {
+  margin-top: 30%;
+  border: 1px solid grey;
+  width: 100%;
+}
+
+.FoodItemRow {
+  border: 1px solid grey;
+  border-radius: 5px;
+  width: 100%;
+  height: 80px;
+  margin-bottom: 0.5%;
+  text-align: center;
+  vertical-align: center;
+  line-height: 70px;
+}
+
+.Search {
+  width: 100%;
+  margin-bottom: 2%;
+}
+
+.SearchButton {
+  top: -2px;
+  position: relative;
+  width: auto;
+  height: 50px;
+  border: 1px solid grey;
+  border-radius: 2%;
+  background-color: #f0f1f4;
+}
+
+.magnifier {
+  height: 30px;
+  width: auto;
+}
+
+.SearchBar {
+  width: 80%;
+  height: 50px;
+  border: 1px solid grey;
+}
+
+
+.App-title {
+  font-size: 3.5em;
+}
